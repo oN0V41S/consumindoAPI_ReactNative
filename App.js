@@ -1,6 +1,6 @@
 import { StatusBar } from "expo-status-bar";
 import { StyleSheet, Text, View } from "react-native";
-import AnimalList from "./componentes/animalList/animalList";
+import AnimalList from "./components/animalList/animalList";
 
 export default function App() {
   return (

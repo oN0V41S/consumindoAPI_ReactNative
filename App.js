@@ -7,7 +7,7 @@ export default function App() {
     <View style={styles.container}>
       <StatusBar style="auto" />
       <Text style={styles.text}>Lista de Cidades ( Fake ) </Text>
-      {/* <AnimalList/> */}
+      <AnimalList/>
     </View>
   );
 }

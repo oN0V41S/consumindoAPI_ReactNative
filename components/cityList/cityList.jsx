@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { StyleSheet, Text, View, FlatList, Image, Alert } from "react-native";
 
-export default function AnimalList() {
+export default function CityList() {
   const [ListCityes, setListCityes] = useState([]);
 
   useEffect(() => {
